@@ -90,3 +90,7 @@ It adds a new condition type called **"User has NOT completed a course"**. This 
 
 **Example Use Case:**
 You can create a reminder email that sends 7 days after a user hasn't logged into "Beginner's Course", but only if they have NOT completed the "Beginner Course" course yet.
+
+## Settings
+
+![Settings](settings.jpg)
